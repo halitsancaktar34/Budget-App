@@ -7,9 +7,9 @@
 <ul>
     <li>**React Native**: Utilized to build a cross-platform mobile application with native-like performance.</li>
     <li>**Expo**: Streamlines the development process by providing a set of tools and services.</li>
-    <li>**expo-file-system**: Provides access to the file system for saving and retrieving data.</li>
+    <li>**Expo-file-system**: Provides access to the file system for saving and retrieving data.</li>
     <li>**React Navigation**: Integrated for smooth navigation between different screens and sections of the app.</li>
-    <li>**expo-sqlite**: Used to manage local database storage.</li>
+    <li>**Expo-sqlite**: Used to manage local database storage.</li>
     <li>**UI Kitten**: Leveraged for designing a visually appealing and consistent user interface with ready-to-use UI components.</li>
 </ul>
 
