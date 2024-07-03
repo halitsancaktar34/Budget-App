@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "BudgetBuddy",
-    "slug": "BudgetBuddy",
+    "name": "budgetapp",
+    "slug": "budgetapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,15 +13,14 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.betomoedano.BudgetBuddy"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.betomoedano.BudgetBuddy"
+    
     },
     "web": {
       "favicon": "./assets/favicon.png"
